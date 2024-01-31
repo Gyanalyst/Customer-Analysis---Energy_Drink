@@ -19,6 +19,31 @@ The dataset and requests for this analysis were provided by CodeBasics. The foll
 # Solution
 I analyzed a survey with 10,000 rows to identify the top-preferred energy drink brand, key clients, and their preferences. This assists the CodeX marketing team in developing targeted strategies to improve product, brand awareness, and market share.
 
+# Key analysis:
+✅**Demographic Analysis:**
+
+• Analyze the demographic characteristics of the respondents, such as age, and gender.
+
+✅**City-wise Analysis:**
+
+• Explore the survey response from each city to understand preferences specific to these locations.
+
+• Compare the responses across the different cities to identify the regional differences in consumer behavior and preferences.
+
+✅**Competitor Analysis:**
+
+ • Compare CodeX energy drink's performance with competitors in terms of brand perception, market share, and product offerings.
+ 
+✅**Consumer Behavior and Buying Patterns:**
+
+• Analyze the consumer buying patterns, including frequency of purchase, preferred channels (online or offline), and factors influencing the purchase decisions.
+
+✅**Brand awareness and Perception:**
+
+• Analyze the perceptions of the brand, including attributes such as quality, taste, packaging, and value for money, to understand how it is perceived in different markets.
+
+• Identify areas where the brand perception can be strengthened or improved.
+
 # Recommendations
 • The primary target audience should consist of males aged 15-45 years.
 
