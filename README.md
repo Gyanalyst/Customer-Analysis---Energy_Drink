@@ -54,4 +54,6 @@ While working on this project, I gained insights into diverse marketing strategi
 
 **Email:** gyanashish753@gmail.com
 
+**_Contributions to this project are welcome! Feel free to open issues or pull requests if you have suggestions, improvements, or additional insights to share._**
+
 _Thank you!_
