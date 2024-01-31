@@ -7,10 +7,15 @@ CodeX seeks insights on key clients and energy drink preferences in the Indian m
 
 # Data, Requests, and Tools
 The dataset and requests for this analysis were provided by CodeBasics. The following tools were used to conduct the analysis:
+
 **MySQL:** Used to analyze the data and generate insights.
+
 **Power BI:** Utilized to create a visual dashboard for data analysis.
+
 **PowerPoint:** Used to create presentation slides for showcasing the analysis results.
+
 **Adobe Photoshop:** Employed to design product images for the presentation.
+
 # Solution
 I analyzed a survey with 10,000 rows to identify the top-preferred energy drink brand, key clients, and their preferences. This assists the CodeX marketing team in developing targeted strategies to improve product, brand awareness, and market share.
 
