@@ -79,6 +79,9 @@ While working on this project, I gained insights into diverse marketing strategi
 
 **Email:** gyanashish753@gmail.com
 
+# Dashboard Link:
+https://app.powerbi.com/view?r=eyJrIjoiYmJkZTFiMzAtMDczZi00NzUxLTg2ZTUtNWQxMTgzZDE0YzIyIiwidCI6ImUxNDBkOWE1LWM3NzItNDExZS05Zjk3LTI0NjI4ZTQ4MjEyYSJ9&pageName=ReportSection
+
 **_Contributions to this project are welcome! Feel free to open issues or pull requests if you have suggestions, improvements, or additional insights to share._**
 
 _Thank you!_
